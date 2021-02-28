@@ -11,3 +11,4 @@ Python projects: *link*
 
 # Plans for the future: 
 - [ ] Learn SQL
+- [ ] yeah
