@@ -1,8 +1,6 @@
 # All of my work and qualifications! 
 ## The languages I know
-Rust
-HTML/CSS/JS
-Python
+Rust, HTML/CSS/JS, Python
 
 ## A list of my public work and where you can find it
 Web development projects: https://github.com/Jacoby-Y/WevDevPortfolio
