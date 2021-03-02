@@ -5,7 +5,7 @@ Rust, HTML/CSS/JS, Python
 ## A list of my public work and where you can find it
 Web development projects: https://github.com/Jacoby-Y/WevDevPortfolio
 
-Rust projects: https://github.com/Jacoby-Y/...
+Rust projects: https://github.com/Jacoby-Y/rust-work
 
 Python projects: https://github.com/Jacoby-Y/python-projects
 
