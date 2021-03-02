@@ -7,7 +7,7 @@ Web development projects: https://github.com/Jacoby-Y/WevDevPortfolio
 
 Rust projects: https://github.com/Jacoby-Y/...
 
-Python projects: https://github.com/Jacoby-Y/...
+Python projects: https://github.com/Jacoby-Y/python-projects
 
 # Plans for the future: 
 - [ ] Learn SQL
