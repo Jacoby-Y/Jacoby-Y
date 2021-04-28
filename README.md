@@ -12,6 +12,8 @@ Rust projects: https://github.com/Jacoby-Y/rust-projects
 
 Python projects: https://github.com/Jacoby-Y/python-projects
 
+My itch.io page: https://jacoby-y.itch.io/
+
 # Plans for the future: 
 - [ ] Learn SQL
 - [ ] Learn TypeScript
