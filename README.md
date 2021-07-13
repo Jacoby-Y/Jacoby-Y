@@ -16,5 +16,4 @@ My itch.io page: https://jacoby-y.itch.io/
 
 # Plans for the future: 
 - [ ] Learn SQL
-- [ ] Learn TypeScript
-- [ ] Get a tech job
+- [ ] Get a job
