@@ -1,14 +1,10 @@
 # All of my work and qualifications! 
 ## The technologies I've worked with (and like)
-Rust, HTML/CSS/JS, JQuery, Python, Unity/C#, Lua
+Rust, Svelte, Python, Unity/C#
 
 ## Here is some of my public work
-Web development portfolio: https://github.com/Jacoby-Y/WevDevPortfolio
+**Web development portfolio**: Coming Soon
 
-My latest project: https://github.com/Jacoby-Y/super_simple_idle
+**My latest project**: https://github.com/Jacoby-Y/idle-orbs-2/
 
-Rust projects: https://github.com/Jacoby-Y/rust-projects
-
-Python projects: https://github.com/Jacoby-Y/python-projects
-
-My itch.io page: https://jacoby-y.itch.io/
+**My itch.io page**: https://jacoby-y.itch.io/
