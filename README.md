@@ -1,6 +1,6 @@
 # All of my work and qualifications! 
 ## The technologies I've worked with (and like)
-Rust, Svelte, Python, Unity/C#
+Rust, Svelte, Python, Unity/C#, HTML/CSS/JS
 
 ## Here is some of my public work
 **Web development portfolio**: Coming Soon
