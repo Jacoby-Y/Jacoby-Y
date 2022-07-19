@@ -1,10 +1,11 @@
-# All of my work and qualifications! 
-## The technologies I've worked with (and like)
-Rust, Svelte, Python, Unity/C#, HTML/CSS/JS
+### Things I'm Good At And Love 🧠 + ❤️
+1. HTML/CSS/JS
+2. Python
+3. Svelte
+4. Rust
+5. Unity/C#
+6. Godot
 
-## Here is some of my public work
-**Web development portfolio**: Coming Soon
 
-**My latest project**: https://github.com/Jacoby-Y/idle-orbs-2/
-
-**My itch.io page**: https://jacoby-y.itch.io/
+### Education 🎓
+Learning Full Stack Development at [Coding Temple](https://codingtemple.com/)
