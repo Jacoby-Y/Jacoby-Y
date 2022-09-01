@@ -7,5 +7,6 @@
 6. Godot
 
 
-### Education 🎓
-Learning Full Stack Development at [Coding Temple](https://codingtemple.com/)
+### Experience 🎓
+Gaining Full Stack Development experience at [Coding Temple](https://codingtemple.com/)   
+Taught kids to code at Academia Edge (Web Dev and Rust)
